@@ -92,13 +92,8 @@
   }
 
   img {
-    display: block;
-    width: 160px;
-    height: 160px;
-    max-width: 100%;
-    min-width: 0;
-    object-fit: cover;
-    object-position: center;
+    max-width: 175px;
+    min-width: 75px;
     border-radius: 50%;
 
     @include breakpoint($large) {
@@ -107,6 +102,7 @@
     }
   }
 }
+
 
 .author__content {
   display: table-cell;

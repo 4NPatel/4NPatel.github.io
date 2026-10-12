@@ -28,7 +28,7 @@ redirect_from:
 
 I am an undergraduate student in Electronics and Communication Engineering at [Nirma University](https://nirmauni.ac.in/), Ahmedabad, India, with a minor in Computer Science and Engineering. My academic interests lie at the intersection of computer architecture, memory systems, parallel computing, and hardware–software co-design.
 
-I am currently a Research Intern working with [Prof. Shounak Chakraborty](https://www.durham.ac.uk/staff/shounak-chakraborty/#overview) on computer architecture and GPU memory systems. My research explores **STT-RAM-based GPU translation lookaside buffer (TLB) architectures**, focusing on address translation, memory hierarchy design, and the performance implications of asymmetric memory access latencies. I use architectural simulation frameworks, including gem5 and MGPUSim, to investigate design trade-offs in GPU memory systems.
+I am currently a Research Intern working with [Prof. Shounak Chakraborty](https://www.durham.ac.uk/staff/shounak-chakraborty/#overview) at Durham University, United Kingdom, on computer architecture and GPU memory systems. My research explores **STT-RAM-based GPU translation lookaside buffer (TLB) architectures**, focusing on address translation, memory hierarchy design, and the performance implications of asymmetric memory access latencies. I use architectural simulation frameworks, including gem5 and MGPUSim, to investigate design trade-offs in GPU memory systems.
 
 My broader interests include GPU architecture, memory hierarchies, emerging memory technologies, AI accelerators, and efficient hardware architectures for machine learning workloads. I am particularly interested in understanding how architectural innovations and hardware–software co-design can improve performance, energy efficiency, and scalability in modern computing systems.
 
@@ -56,12 +56,12 @@ I am interested in research opportunities in **computer architecture, GPU system
 ### Research Intern — Computer Architecture and GPU Memory Systems
 *June 2026 – Present*
 
-Research collaboration with *[Prof. Shounak Chakraborty](https://www.durham.ac.uk/staff/shounak-chakraborty/#overview)*
+Research collaboration with *[Prof. Shounak Chakraborty](https://www.durham.ac.uk/staff/shounak-chakraborty/#overview)*, Durham University, United Kingdom.
 
-- Investigating STT-RAM-based GPU L2 TLB architectures for address translation and memory management, targeting modern GPU architectures.
-- Exploring the effects of asymmetric STT-RAM read and write latencies on TLB design and architectural performance.
+- Investigating STT-RAM-based GPU L2 TLB architectures for address translation and memory management in modern GPUs.
+- Evaluating the architectural implications of asymmetric STT-RAM read and write latencies on TLB design and performance.
 - Using gem5 and MGPUSim to study GPU memory-system behavior and evaluate architectural design trade-offs.
-- Examining TLB hierarchy organization and interconnect design to understand their impact on translation performance.
+- Exploring TLB hierarchy organization and interconnect design to understand their effects on address-translation performance.
 
 ### Research Work — Transformer Architectures and KV-Cache Optimization
 *Research collaboration*
@@ -83,17 +83,17 @@ Research collaboration with *[Prof. Shounak Chakraborty](https://www.durham.ac.u
 - Developed and simulated the design using Xilinx Vivado, targeting the ZCU104 FPGA platform.
 - Evaluated cycle-level behavior and performance at a 300 MHz target clock frequency.
 
-### Asynchronous FIFO with Clock-Domain Crossing
-- Implemented an asynchronous FIFO using Gray-coded read and write pointers for safe data transfer between independent clock domains.
-- Performed simulation and verification using Synopsys VCS and Verdi, with CDC analysis using SpyGlass.
-
-### SRAM Circuit Design and Analysis
-- Designed and analyzed 6T and 8T SRAM bitcells using Cadence Virtuoso.
-- Studied read and write behavior, stability, and circuit-level design trade-offs.
-
 ### Operating System Simulator
 - Developed a modular C++ simulator implementing process management, CPU scheduling, virtual memory, two-level paging, memory protection, and mutex-based synchronization.
 - Implemented Round Robin, Priority, and Shortest Job First scheduling algorithms.
+
+### C++ Expression Compiler
+- Developed a modular C++ expression compiler supporting lexical analysis, parsing, expression evaluation, and intermediate representation (IR) generation.
+- Implemented abstract syntax tree (AST)-based expression processing and symbol-table management to translate parsed expressions into an intermediate representation.
+
+### 4×4 SRAM Array Design and Layout
+- Designed and simulated a 4×4 SRAM array in Cadence Virtuoso, including bitcells, precharge circuits, and associated peripheral circuitry.
+- Completed layout design, DRC/LVS verification, parasitic extraction, and post-layout simulations to evaluate read/write behavior.
 
 <span class="anchor" id="publications"></span>
 # Publications

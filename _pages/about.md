@@ -64,7 +64,7 @@ Research collaboration with *[Prof. Shounak Chakraborty](https://www.durham.ac.u
 - Exploring TLB hierarchy organization and interconnect design to understand their effects on address-translation performance.
 
 ### Research Work — Transformer Architectures and KV-Cache Optimization
-*Research collaboration*
+*Research collaboration, University of Arizona, USA*
 
 - Studied Transformer architectures, attention mechanisms, and large language model inference, emphasizing memory and data-movement bottlenecks.
 - Explored KV-cache organization and memory-efficient inference techniques, with an interest in architectural approaches to improving inference efficiency.
@@ -99,6 +99,14 @@ Research collaboration with *[Prof. Shounak Chakraborty](https://www.durham.ac.u
 # Publications
 
 <ul>
+<li>
+<div class="pubtitle">IEEE TVLSI (Manuscript Submitted)</div>
+<a>Schmitt Trigger-Based SRAM Architectures.</a>
+<span class="font-bold">N. Patel</span>, P. Bhatasana, A. Mecwan, and U. Mehta.
+Submitted to IEEE Transactions on Very Large Scale Integration (VLSI) Systems (TVLSI).
+Designed and implemented a 12T Schmitt Trigger-based SRAM in 45 nm technology using Cadence Virtuoso, achieving 1.9× higher stability (RSNM and HSNM) than 8T SRAM, with read/write speed and power performance comparable to recent SRAM design advancements.
+</li>
+<br>
 <li>
 <div class="pubtitle">SpliTech 2025</div>
 <a href="https://doi.org/10.23919/SpliTech65624.2025.11091648">DL-based Framework for Detecting Malicious Proof-of-Stake Blocks in Gaming Transactions.</a>

@@ -36,7 +36,13 @@ Alongside my research, I have hands-on experience in RTL design, ASIC physical d
 
 I am interested in research opportunities in **computer architecture, GPU systems, memory systems, and AI accelerator design**, particularly projects that connect architectural research with practical hardware implementation.
 
-[CV](../publication/cv.pdf) | [GitHub](https://github.com/4NPatel/) | [LinkedIn](https://www.linkedin.com/in/neel-patel-a626301b8/)
+<div style="display: flex; justify-content: space-between; width: 50%;">
+
+<a href="{{ '/docs/Neel_Patel_CV.pdf' | relative_url }}">CV</a>
+<a href="https://github.com/4NPatel/">GitHub</a>
+<a href="https://www.linkedin.com/in/neel-patel-a626301b8/">LinkedIn</a>
+
+</div>
 
 ---
 <span class="anchor" id="research-interests"></span>
@@ -126,9 +132,9 @@ Designed and implemented a 12T Schmitt Trigger-based SRAM in 45 nm technology us
 <span class="anchor" id="honors-and-awards"></span>
 # Honors and Awards
 
-- **Certificate of Excellence** — Top 1% of the department; Department Rank 2.
+- **Certificate of Excellence** — Top 1% of the department; Department Rank 2/220.
 - **Academic Distinction** — Second-highest academic standing in Electronics and Communication Engineering across Semesters I–VI.
-- **Academic Performance** — CGPA: 9.40/10.
+- **Academic Performance** — CGPA: 9.40/10 (3.76/4.00 on US scale)
 
 <span class="anchor" id="education"></span>
 # Education
@@ -136,7 +142,7 @@ Designed and implemented a 12T Schmitt Trigger-based SRAM in 45 nm technology us
 - **August 2023 – May 2027 (Expected)**  
   **B.Tech. in Electronics and Communication Engineering**, with a minor in Computer Science and Engineering  
   Nirma University, Institute of Technology, Ahmedabad, India  
-  CGPA: 9.40/10 | Department Rank: 2
+  CGPA: 9.40/10 (3.76/4.00) | Department Rank: 2/220
 
 # Industry Experience
 
